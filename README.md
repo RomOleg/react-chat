@@ -1,4 +1,6 @@
-https://github.com/{RomOleg}/{react-chat}/raw/{master}/{image}/1.png
+https://github.com/RomOleg/react-chat/raw/master/image/1.png
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
