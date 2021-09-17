@@ -1,6 +1,3 @@
-![1] https://github.com/RomOleg/react-chat/blob/master/image/1.jpg
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
