@@ -1,1 +1,5 @@
 ![1](https://github.com/RomOleg/react-chat/blob/master/image/1.jpg)
+![2](https://github.com/RomOleg/react-chat/blob/master/image/2.jpg)
+![3](https://github.com/RomOleg/react-chat/blob/master/image/3.jpg)
+![4](https://github.com/RomOleg/react-chat/blob/master/image/4.jpg)
+![5](https://github.com/RomOleg/react-chat/blob/master/image/5.jpg)
